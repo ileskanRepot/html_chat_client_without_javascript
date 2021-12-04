@@ -1,4 +1,4 @@
-	</p>
+	</span>
 	<form action="?" method="POST">
 		<div>
 			<label for="say">What greeting do you want to say?</label>
